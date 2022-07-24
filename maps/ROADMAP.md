@@ -3,26 +3,18 @@
 
 ## Brief description
 
+> This was empty for a long time.
 
-## The Map ( 2022-01-12 ) -> ( 2022-07-24 )
-> The reference "Arching Kaos" will be used while speaking for the project itself as a whole.
+Arching Kaos is an attempt to create a shared basis for content creators focused on music mixing of electronic music in order to lift the vibes and let differences out. It is a network of minimal blockchains. Each participant can create content and be heard. On [arching-kaos.net](https://arching-kaos.net), you will find content from some creators already, migrated from the previous version of the radio station.
+
+While mentioning radio station, live stream is not available but it will soon be as the decentralized radio part takes off.
 
 ### Development
 Parts in need are:
-
+- [ ] - Arching Kaos Decentralized Radio
 - [x] - Static HTML5 page which loads the content we want
 - [x] - Explorer of the ZCHAIN
 - [x] - Modules
-
-###  
-
-## General overview
-Arching Kaos is a project that consists of communication ways, distributed filesystem and wants to be a decentralized overall protocol.
-
-It is mainly used for a webradio.
-
-### What I want to do? *DONE*
-I want to decentralize the current [radio station](https://radio.arching-kaos.com).
 
 ### Proof of concept [Completed]
 
