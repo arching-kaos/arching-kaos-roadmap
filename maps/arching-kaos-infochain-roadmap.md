@@ -4,13 +4,13 @@ AKI Roadmap
 1. Finish whitepaper
 2. Implement features
 -	[x] mixtape 
--	[ ] profile
+-	[x] profile ( only a nickname, maybe add a picture/avatar ? )
 -	[x] messages (in away that is close to the email standards)
 -	[ ] shop
 -	[x] news
 3. Create a page that read profile, using Stellar addresses. ProfileHandler()
--	[ ] see if there is a data variable called zprofile on the address
--	[ ] see if there is a post on their transactions with action=="profile/add"
+-	[x] see if there is a data variable called `config` on the address
+-	[ ] <del>see if there is a post on their transactions with action=="profile/add"</del>
 4. Attach features to the profile page:
 -	[x] mixtape/add
 -	[ ] profile/edit
@@ -48,18 +48,16 @@ To make it easy:
 Create a structure
 ------------------
 
-All basis is `akctl`
+All basis <del>is</del> should be a `akctl` program.
 
 Components
 ----------
 
-sync - `download-transactions-to-file.sh`
+sync - `download-transactions-to-file.sh` -- Storing values to memo of transactions is discontinued until found useful again.
 
 From README
 -----------
 
-4. Verify that all the data is signed with the packed key
-6. Create a procedure that bonds everything in a super app
-
-
+- [x] - Verify that all the data is signed with the packed key 
+- [ ] - Create a procedure that bonds everything in a super app
 
