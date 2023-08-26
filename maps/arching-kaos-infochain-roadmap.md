@@ -29,6 +29,7 @@ AKI Roadmap
 
 About channels
 --------------
+> UPDATE: Since sometime there is https://github.com/kaotisk-hund/ipbc
 
 This is very important. Anyone can say whatever they want. They send the same old ZBLOCK. DATA is different of course.
 To make it easy:
